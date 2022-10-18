@@ -1,0 +1,1 @@
+The files that concide with the hyunh restaurant assignment are: Index, Our location, and email. Per the assignment I've redone the original restaurant home page, location page and contact us page.
